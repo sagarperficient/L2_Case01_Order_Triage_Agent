@@ -1,0 +1,13 @@
+order_id,customer_tier,text_note,status,issue_type,priority,route
+ORD-10001,standard,I ordered a blue medium hoodie and received a red XL. Need the correct one.,in_progress,wrong_item,high,marcus
+ORD-10002,plus,Box arrived crushed and the mug inside is shattered. Photos attached.,new,damaged,high,marcus
+ORD-10003,standard,"Changed my mind, item is unopened, requesting a full refund.",new,refund_request,medium,marcus
+ORD-10004,standard,"I was charged twice for the same order, please reverse the duplicate.",new,payment_issue,urgent,priya
+ORD-10005,standard,I moved - can you ship to my new address before it dispatches?,in_progress,address_change,medium,marcus
+ORD-10006,plus,"Please cancel this order, I found it cheaper elsewhere.",new,cancel_request,medium,marcus
+ORD-10007,premium,Does this jacket run true to size? Unsure before I open it.,new,product_question,medium,marcus
+ORD-10008,standard,I want to pause my monthly coffee subscription for two months.,new,subscription,low,marcus
+ORD-10009,standard,This order was placed on my account but I did not authorize it.,in_progress,fraud_alert,urgent,priya
+ORD-10010,plus,"Order was supposed to arrive Tuesday, still not here and it's a birthday gift.",new,delivery_delay,medium,marcus
+ORD-10011,premium,"The sneakers in the box are size 9, I ordered size 11. Please send the right size.",new,wrong_item,urgent,priya
+ORD-10012,standard,"The glass frame arrived with a crack across the front, packaging was torn open.",new,damaged,high,marcus
